@@ -1,0 +1,106 @@
+.top{
+	width: 535px;
+	height: 30px;
+	background-color: gold;
+	border: 1px solid black;
+	position: relative;
+}
+
+.top p{
+	font-size: 18px;
+	text-align: center;
+	position:relative;
+	bottom: 13px;
+}
+
+.left{
+	width: 150px;
+	height: 420px;
+	border: 1px solid black;
+	position: relative;
+
+}
+
+.left h3{
+	text-align: center;
+	position: relative;
+}
+
+.left p{
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 15.4px;
+}
+
+.left img{
+	float: bottom;
+	width: 150px;
+	height: 150px;
+}
+
+.center{
+	width: 230px;
+	height: 420px;
+	border: 1px solid black;
+	position: absolute;
+	left: 159px;
+	top: 40px;
+}
+
+.center h2{
+	text-align: center;
+	position: relative;
+	top: 30px;
+}
+.center p{
+	text-align: justify;
+	margin-right: 30px;
+	margin-left: 30px;
+	font-size: 15px;
+	top: 40px;
+	position: relative;
+}
+
+.right{
+	width: 153px;
+	height: 420px;
+	border: 1px solid black;
+	position: absolute;
+	left: 390px;
+	top: 40px;
+}
+
+.right h3{
+	text-align: center;
+	position: relative;
+}
+
+.right p{
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 15.4px;
+}
+
+.right img{
+	float: bottom;
+	width: 150px;
+	height: 140px;
+}
+
+.bottom{
+	width: 535px;
+	height: 15px;
+	background-color: gold;
+	border: 1px solid black;
+	position: relative;
+}
+
+.bottom p{
+	font-size: 13px;
+	text-align: center;
+	position:relative;
+	bottom: 14px;
+	
+}
